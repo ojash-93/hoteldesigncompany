@@ -1,0 +1,1718 @@
+@font-face {
+    font-family: Gilroy-Bold;
+    src: url(../fonts/Gilroy-Bold.ttf);
+}
+
+@font-face {
+    font-family: Gilroy-SemiBold;
+    src: url(../fonts/Gilroy-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Gilroy-Regular;
+    src: url(../fonts/Gilroy-Regular.ttf);
+}
+
+/* header */
+body {
+    background-color: #f7efe1;
+}
+
+.logo {
+    margin: 30px;
+}
+
+/* header */
+
+/* hero */
+
+.hero-main {
+    background-color: #DF6651;
+    border-radius: 14px;
+    padding: 58px 50px;
+}
+
+.hero-header {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #091026;
+    padding-bottom: 10px;
+}
+
+.hero-subheader {
+    font-family: Gilroy-SemiBold;
+    font-size: 30px;
+    line-height: 36px;
+    color: #F7EFE1;
+}
+
+.hero-describtion {
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F7EFE1;
+    padding-top: 30px;
+}
+
+
+
+/* hero */
+/* /session 1 */
+.session-main {
+    background-color: #51A380;
+    border-radius: 14px;
+    padding: 58px 50px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+
+
+
+}
+
+.session-heder {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #B9405B;
+
+}
+
+.session-subheader {
+    font-family: Gilroy-Regular;
+    font-size: 30px;
+    line-height: 37px;
+    color: #F7EFE1;
+}
+
+.session-des {
+
+
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F7EFE1;
+
+
+}
+
+
+
+/* session 1 */
+
+
+
+/* session 2 */
+
+
+
+.session2 {
+
+    border-radius: 14px;
+    padding-top: 30px;
+
+
+}
+
+
+.session2-img {
+    background-color: #f7efe1;
+    border-radius: 14px;
+    border-style: solid;
+    border-color: black;
+}
+
+.session2-tex {
+    background-color: #002856;
+    padding: 50px 58px;
+
+    border-radius: 14px;
+}
+
+.session2-heder {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #DF6651;
+}
+
+.session2-hed {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #DF6651;
+    padding-top: 10px;
+}
+
+.session2-sub {
+    font-family: Gilroy-Regular;
+    font-size: 30px;
+    line-height: 37px;
+    color: #F7EFE1;
+    padding-bottom: 20px;
+
+
+
+}
+
+.session2-des {
+    font-family: Gilroy-SemiBold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F7EFE1;
+    margin-top: 10px;
+    /* margin: 10px; */
+}
+
+.session2-var {
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F7EFE1;
+
+}
+
+.session2-var2 {
+    font-family: Gilroy-SemiBold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #F7EFE1;
+    padding-top: 20px;
+}
+
+
+
+/* session 2 */
+
+
+/* session 3 */
+.session3-tex {
+    background-color: #dfdbd3;
+    margin-top: 30px;
+    padding-top: 25px;
+    padding-right: 29px;
+    padding-left: 34px;
+    border-radius: 14px;
+    background-image: url(../img/bg1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    margin-right: 10px;
+    padding-bottom: 45px;
+
+}
+
+.session3-tex2 {
+    background-color: #dfdbd3;
+    margin-top: 30px;
+    padding-top: 34px;
+    padding-right: 78px;
+    padding-left: 34px;
+    border-radius: 11px;
+    padding-bottom: 41px;
+
+
+    background-image: url(../img/session\ 3\ bg2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-right: 10px;
+
+
+
+
+}
+
+.session3-tex3 {
+    background-color: #dfdbd3;
+    margin-top: 30px;
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-left: 34px;
+    border-radius: 14px;
+    background-image: url(../img/session\ 3\ bg\ 3.png);
+
+    background-repeat: no-repeat;
+    background-position: top left;
+
+    padding-bottom: 78px;
+
+
+
+    margin-right: 10px;
+}
+
+
+.session3-heder {
+    font-family: Gilroy-Bold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #B9405B;
+
+
+
+}
+
+.session3-sub {
+    font-family: Gilroy-SemiBold;
+    font-size: 25px;
+    line-height: 31px;
+    color: #002856;
+}
+
+.sessiom3-dis {
+    font-family: Gilroy-SemiBold;
+    font-size: 18px;
+    line-height: 28px;
+    color: #091026;
+}
+
+.session-3 {
+    font-family: Gilroy-Regular;
+    font-size: 17px;
+    line-height: 28px;
+    color:
+        #DF6651;
+
+}
+
+.session3-img1 {
+    padding-top: 6px;
+    padding-left: 50px;
+    padding-right: 46px;
+
+
+
+
+}
+
+.session3-img2 {
+    padding-top: 4px;
+    padding-left: 68px;
+    padding-right: 68px;
+    padding-bottom: 41px;
+    align-items: center;
+    text-align: center;
+    margin-top: 4px;
+}
+
+.session3-img3 {
+    padding-top: 29px;
+    padding-left: 52px;
+    padding-right: 52px;
+    margin-top: 29px;
+
+}
+
+/* session 3 */
+
+/* session 4 */
+.session4-tax {
+    background-color: #f7efe1;
+
+    padding: 58px 50px;
+    border-style: solid;
+    border-color: green;
+
+    padding-top: 50px;
+    margin-top: 50px;
+    border-radius: 14px;
+
+    padding-left: 26px;
+
+}
+
+.session4-heder {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #0A7A69;
+
+}
+
+.session4-sub {
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 34px;
+    color: #002856;
+    padding-top: 40px;
+}
+
+.session4-img {
+    background-color: #0a7a69;
+    border-radius: 14px;
+    margin-top: 50px;
+
+}
+
+
+
+/* sessionm 4 */
+
+
+/* session 5 */
+.session5-menu {
+    background-color: #B9405B;
+    margin-top: 80px;
+    padding: 58px 50px;
+    border-radius: 14px;
+
+
+}
+
+.session5-sub {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #F7EFE1;
+
+}
+
+.session5-des {
+    font-family: Gilroy-SemiBold;
+    font-size: 30px;
+    line-height: 36px;
+    color: #F7EFE1;
+
+}
+
+.session5-tex {
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
+
+}
+
+.session5-img {
+    text-align: center;
+
+}
+
+
+/* session 5 */
+
+
+/* session 6 */
+.session6-tex {
+    background-color:
+        #091026;
+
+    padding: 58px 50px;
+
+
+
+    margin-top: 30px;
+    border-radius: 14px;
+    padding-bottom: 165px;
+
+
+}
+
+.session6-img {
+    border-radius: 14px;
+    background-color: #f7efe1;
+    padding: 51px 50px;
+    margin-top: 30px;
+    border-style: solid;
+    border-color: black;
+
+
+
+
+}
+
+.session6-sub {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #F7EFE1;
+
+}
+
+.session6-sub2 {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #F7EFE1;
+
+}
+
+.session6-des {
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
+    padding-top: 10px;
+
+}
+
+.session6-des2 {
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
+    padding-top: 10px;
+}
+
+/* session 6 */
+
+/* session 7 */
+.session7-menu {
+    background-color: #DF6651;
+    padding: 58px 50px;
+    margin-top: 50px;
+    border-radius: 14px;
+
+}
+
+.session7-sub {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #F7EFE1;
+
+}
+
+.session7-des {
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 34px;
+    color:
+        #FFFFFF;
+    padding-top: 10px;
+}
+
+
+/* session 7 */
+
+/* session 8 */
+
+.session8-tex {
+    background-color: #0A7A69;
+
+    padding: 58px 50px;
+    padding-left: 50px;
+
+    margin-left: 10px;
+
+    margin-top: 28px;
+    border-radius: 14px;
+
+}
+
+.session8-sub {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #F7EFE1;
+}
+
+.session8-des {
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
+    padding-top: 10px;
+}
+
+.session8-img {
+    background-color: #f7efe1;
+    padding: 113px 68px;
+    padding-left: 67px;
+
+
+    margin-top: 30px;
+    border-radius: 14px;
+    border-style: solid;
+    border-color: green;
+
+}
+
+/* session 9 */
+
+.session9-menu {
+    background-color: #B9405B;
+    padding: 61px 50px;
+    padding-left: 56px;
+
+    margin-left: 10px;
+
+    margin-top: 50px;
+    border-radius: 14px;
+
+
+}
+
+.session9-sub {
+    font-family: Gilroy-Bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.session9-sub {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #F7EFE1;
+    padding-bottom: 50px;
+
+}
+
+.session9-sub2 {
+    padding-left: 250px;
+}
+
+.session9-img {
+
+    text-align: left;
+
+    padding-left: 47px;
+    padding-top: 18px;
+    padding-right: 48px;
+    padding-bottom: 18px;
+
+}
+
+.session9-des {
+    height: 100px;
+    width: 300px;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: #F7EFE1;
+    text-align: center;
+    margin-right: 50px;
+
+}
+
+.session9-des2 {
+    font-family: Gilroy-Bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    text-align: center;
+    display: inline;
+    padding-bottom: 37px;
+    padding-top: 36px;
+
+
+}
+
+.session9-tex {
+    height: 100px;
+    width: 300px;
+    display: inline;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: #F7EFE1;
+
+
+
+}
+
+.session9-img2 {
+    text-align: left;
+
+    padding-left: 47px;
+    padding-top: 18px;
+
+    padding-bottom: 18px;
+
+}
+
+.session9-demo {
+    font-family: Gilroy-Bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    text-align: center;
+    display: inline;
+    padding-bottom: 25px;
+    padding-top: 24px;
+    padding-left: 30px;
+    padding-right: 30px
+}
+
+
+
+/* swssion 9 */
+
+
+/* sassion 10 */
+.session-10 {
+    background-color: #002856;
+}
+
+.session10-menu {
+    /* background-color: #002856; */
+    margin-top: 30px;
+}
+
+.session10-sub {
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #F7EFE1;
+    padding-top: 47px;
+    padding-left: 45px;
+
+
+
+}
+
+.session10-des {
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    line-height: 29px;
+    color: #F7EFE1;
+    padding-top: 47px;
+    padding-bottom: 21px;
+
+    text-align: left;
+}
+
+.session10-des2 {
+    font-family: Gilroy-SemiBold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+
+
+}
+
+.session10-des3 {
+    font-family: Gilroy-SemiBold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    padding-top: 15px;
+}
+
+.session10-des4 {
+    font-family: Gilroy-SemiBold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+    padding-top: 15px;
+    padding-bottom: 47PX;
+}
+
+.session10-img {
+    padding-top: 94px;
+
+
+    padding-left: 47px;
+}
+
+
+
+/* /session 10 */
+
+.session11-sub {
+
+    font-family: Gilroy-SemiBold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #091026;
+    padding-top: 31px;
+    padding-bottom: 166px;
+    padding-left: 499px;
+    padding-right: 499px;
+}
+
+
+
+
+
+/*  */
+
+
+
+/* page part 2 */
+
+/* hero 1 */
+
+.hero1-menu {
+    background-color: #DF6651;
+    border-radius: 14px;
+}
+
+.hero1-tex {
+
+    padding-top: 58px;
+    padding-left: 50px;
+}
+
+.hero1-sub {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #091026;
+    padding-bottom: 30px;
+}
+
+.hero1-sub2 {
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FFFFFF;
+    padding-bottom: 88px;
+}
+
+.hero1-img {
+    padding-bottom: 58px;
+}
+
+.hero1-des {
+    background-color: #FFA495;
+
+    text-align: center;
+    height: 331px;
+    width: 331px;
+    border-radius: 14px;
+}
+
+.hero1-tex2 {
+    padding-top: 51px;
+    align-items: center;
+    padding-left: 149px;
+    padding-right: 120px;
+    padding-bottom: 61px;
+    padding-top: 61px;
+    margin-right: 10px;
+}
+
+.hero1-des1 {
+    font-family: Gilroy-Bold;
+    font-size: 30px;
+    line-height: 26px;
+    color: #DF6651;
+    padding-bottom: 155px;
+    padding-top: 154px;
+}
+
+
+/* hero 1 */
+
+
+/* page 1 */
+.page1-sub1 {
+    font-family: Gilroy-Bold;
+    font-size: 40px;
+    line-height: 49px;
+    color: #DF6651;
+    padding-bottom: 15px;
+}
+
+.page1-sub2 {
+    font-family: Gilroy-Regular;
+    font-size: 24px;
+    line-height: 34px;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+}
+
+
+.page1-menu {
+    background-color: #002856;
+    margin-top: 30px;
+    padding: 58px 50px;
+    border-radius: 14px;
+
+
+}
+
+.page1-des1 {
+    font-family: Gilroy-Bold;
+    font-size: 19px;
+    line-height: 23px;
+    color:
+        #002856;
+    padding-bottom: 15px;
+}
+
+.page1-des2 {
+    font-family: Gilroy-Regular;
+    font-size: 17px;
+    line-height: 25px;
+    color: #002856;
+    padding-bottom: 20px;
+}
+
+.page1-des3 {
+    font-family: Gilroy-Bold;
+    font-size: 14px;
+    line-height: 25px;
+    color: #DF6651;
+    padding-bottom: 21px;
+}
+
+.page1-tex1 {
+
+    background-color: #dfdcd4;
+    padding: 21px 21px;
+    padding-bottom: 21px;
+    margin-bottom: 10px;
+    border-radius: 14px;
+    margin-left: 10px;
+    background-image: url(../img/page\ 1\ bg\ 1.png);
+
+    background-repeat: no-repeat;
+    background-position: top right;
+
+}
+
+.page1-tex2 {
+    padding-top: 143px;
+}
+
+.page1-search {
+    background-color:#315072;
+    font-family: Gilroy-Regular;
+    font-size: 16px;
+    line-height: 19px;
+    border-radius: 30px;
+    border: none;
+    width: 350px;
+    height: 50px;
+    background-image: url(../img/sherch\ icon.png);
+    background-repeat: no-repeat;
+    background-position: left 10px center;
+    
+    padding-left:51px;
+}
+
+
+.page1-demo {
+
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-bottom: 40px;
+
+}
+
+.page1-demo3 {
+    font-family: Gilroy-Regular;
+    font-size: 18px;
+    line-height: 26px;
+    color:
+        #F7EFE1;
+    padding-bottom: 20px;
+}
+
+
+/* /page 1 */
+
+/* page 2 */
+
+/* page 2 */
+
+.page2-menu {
+    background-color: #0A7A69;
+    margin-top: 30px;
+    padding: 58px 50px;
+    border-radius: 14px;
+}
+
+
+.desktop {
+    display: block;
+}
+
+.mobile {
+    display: none;
+}
+
+/* mobile */
+@media screen and (max-width: 769px) {
+
+    .desktop {
+        display: none;
+    }
+
+    .mobile {
+        display: block;
+    }
+
+    /* hero */
+    .hero-main {
+        padding: 30px;
+    }
+
+    .hero-header {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #091026;
+        padding-bottom: 10px;
+    }
+
+    .hero-subheader {
+        font-family: Gilroy-SemiBold;
+        font-size: 20px;
+        line-height: 24px;
+        color: #F7EFE1;
+    }
+
+    .hero-describtion {
+        font-family: Gilroy-Regular;
+        font-size: 18px;
+        line-height: 26px;
+        color: #F7EFE1;
+        padding-top: 30px;
+    }
+
+    /* hero */
+
+
+    /* session 1 */
+    .session-heder {
+        font-family: Gilroy-Bold;
+        font-size: 40px;
+        line-height: 29px;
+        color: #B9405B;
+
+    }
+
+    .session-subheader {
+        font-family: Gilroy-Regular;
+        font-size: 20px;
+        line-height: 24px;
+        color: #F7EFE1;
+    }
+
+    .session-des {
+
+
+        font-family: Gilroy-Regular;
+        font-size: 18px;
+        line-height: 26px;
+        color: #F7EFE1;
+
+
+    }
+
+    .session-main {
+        padding: 17px;
+    }
+
+
+    /* session 1 */
+
+    /* session 2 */
+    .session2-tex {
+        background-color: #002856;
+        padding: 30px 30px;
+
+        border-radius: 14px;
+    }
+
+    .session2-heder {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #DF6651;
+    }
+
+    .session2-img {
+        background-color: #f7efe1;
+        border-radius: 14px;
+
+    }
+
+
+    .session2-img {
+        background-color: #002856;
+    }
+
+
+    .session2-sub {
+        font-family: Gilroy-Regular;
+        font-size: 20px;
+        line-height: 24px;
+        color: #F7EFE1;
+        padding-bottom: 20px;
+
+
+
+    }
+
+    .session2-des {
+        font-family: Gilroy-SemiBold;
+        font-size: 18px;
+        line-height: 26px;
+        color: #F7EFE1;
+        margin-top: 10px;
+        /* margin: 10px; */
+    }
+
+    .session2-var {
+        font-family: Gilroy-Regular;
+        font-size: 18px;
+        line-height: 26px;
+        color: #F7EFE1;
+
+    }
+
+
+
+
+    /* session 2 */
+
+
+    /* session 3 */
+
+    .session3-heder {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #B9405B;
+
+
+
+    }
+
+    .session3-sub {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #002856;
+    }
+
+    .sessiom3-dis {
+        font-family: Gilroy-SemiBold;
+        font-size: 16px;
+        line-height: 25px;
+        color: #091026;
+    }
+
+    .session-3 {
+        font-family: Gilroy-Regular;
+        font-size: 14px;
+        line-height: 25px;
+        color:
+            #DF6651;
+    }
+
+    .session3-img1 {
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+    }
+
+    .session3-img2 {
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+    }
+
+    .session3-img3 {
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 00px;
+    }
+
+
+
+    .session3-tex {
+        background-color: #dfdbd3;
+        padding-top: 22px;
+        padding-right: 30px;
+        padding-left: 26px;
+        border-radius: 11px;
+        padding-bottom: 0;
+        background-image: url(../img/bg1.png);
+        background-repeat: no-repeat;
+        background-position: bottom right;
+        margin-right: 5px;
+        margin-top: 30px;
+
+    }
+
+    .session3-tex2 {
+        background-color: #dfdbd3;
+        padding-top: 22px;
+        padding-right: 30px;
+        padding-left: 26px;
+        border-radius: 11px;
+        margin-top: 30px;
+        background-image: url(../img/session\ 3\ bg2.png);
+
+        background-repeat: no-repeat;
+        background-position: bottom;
+        margin-right: 5px;
+
+
+
+
+    }
+
+    .session3-tex3 {
+        background-color: #dfdbd3;
+        padding-top: 22px;
+        padding-right: 30px;
+        padding-left: 26px;
+        border-radius: 11px;
+        margin-top: 30px;
+        background-image: url(../img/session\ 3\ bg\ 3.png);
+
+        background-repeat: no-repeat;
+        background-position: top left;
+        padding-bottom: 41px;
+
+
+
+        margin-right: 0px;
+    }
+
+
+
+
+    /* session 3 */
+
+    /* session 4 */
+
+
+    .session4-tax {
+        background-color: #0A7A69;
+
+
+    }
+
+    .session4-heder {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color:
+            #F7EFE1;
+
+    }
+
+    .session4-sub {
+        font-family: Gilroy-Regular;
+        font-size: 18px;
+        line-height: 26px;
+        color:
+            #FFFFFF;
+        padding-top: 40px;
+    }
+
+    .session4-tax {
+        background-color: #0A7A69;
+        border-style: solid;
+        border-color: 0;
+
+    }
+
+    .session4-tax {
+        padding: 30px;
+    }
+
+    /* session 4 */
+    /* session 5 */
+    .session5-menu {
+        background-color: #B9405B;
+
+        padding: 30px;
+
+
+
+    }
+
+    .session5-sub {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #F7EFE1;
+
+    }
+
+    .session5-des {
+        font-family: Gilroy-SemiBold;
+        font-size: 20px;
+        line-height: 24px;
+        color: #F7EFE1;
+
+    }
+
+    .session5-tex {
+        font-family: Gilroy-Regular;
+        font-size: 18px;
+        line-height: 26px;
+        color: #FFFFFF;
+
+    }
+
+
+
+
+    /* session 5 */
+
+    /* session 6 */
+    .session6-sub {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #F7EFE1;
+
+    }
+
+    .session6-img {
+        background-color: #091026;
+    }
+
+    .session6-sub2 {
+        font-family: Gilroy-Bold;
+        font-size: 18px;
+        line-height: 26px;
+        color: #F7EFE1;
+
+    }
+
+    .session6-des {
+        font-family: Gilroy-Regular;
+        font-size: 18px;
+        line-height: 26px;
+        color: #FFFFFF;
+        padding-top: 10px;
+
+    }
+
+    .session6-des2 {
+        font-family: Gilroy-Regular;
+        font-size: 18px;
+        line-height: 26px;
+        color: #FFFFFF;
+        padding-top: 10px;
+    }
+
+    .session6-tex {
+        padding: 30px;
+    }
+
+    /* session 6 */
+
+
+    /* session 7 */
+    .session7-menu {
+        background-color: #DF6651;
+        padding: 30px 30px;
+        margin-top: 50px;
+        border-radius: 14px;
+
+    }
+
+    .session7-sub {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #F7EFE1;
+
+    }
+
+    .session7-des {
+        font-family: Gilroy-Regular;
+        font-size: 18px;
+        line-height: 26px;
+        color:
+            #FFFFFF;
+        padding-top: 10px;
+    }
+
+    /* session 7 */
+
+    /* session 8 */
+
+
+    .session8-tex {
+        background-color: #0A7A69;
+
+        padding: 30px;
+        padding-left: 30px;
+        padding-right: 19px;
+
+        margin-left: 0px;
+
+        margin-top: 30px;
+        border-radius: 14px;
+
+    }
+
+    .session8-img {
+
+        padding: 30px 41px;
+        padding-left: 0px;
+
+
+        margin-top: 0px;
+        border-radius: 14px;
+
+
+    }
+
+
+    .session8-sub {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #F7EFE1;
+    }
+
+    .session8-des {
+        font-family: Gilroy-Regular;
+        font-size: 18px;
+        line-height: 26px;
+        color: #FFFFFF;
+        padding-top: 0px;
+    }
+
+    /* .session8-img {
+        background-color:
+            #0A7A69;
+    } */
+
+    /* session 8 */
+    /*  session 9 */
+
+
+    .session9-sub2 {
+        padding: 30px;
+    }
+
+    .session9-menu {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
+    .session9-sub {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #F7EFE1;
+        padding-bottom: 34px;
+        padding-left: 30px;
+        padding-right: 30px;
+
+    }
+
+    .session9-des {
+        height: 100px;
+        width: 288px;
+        border-style: solid;
+        border-radius: 50px;
+        border-color: #F7EFE1;
+        text-align: center;
+        margin-right: 0px;
+    }
+
+    .session9-des2 {
+        font-family: Gilroy-Bold;
+        font-size: 14px;
+        line-height: 18px;
+        color: #FFFFFF;
+        text-align: center;
+
+
+
+    }
+
+    .session9-des {
+        margin-right: 0px;
+    }
+
+
+    .session9-demo {
+        font-family: Gilroy-Bold;
+        font-size: 14px;
+        line-height: 18px;
+        color: #FFFFFF;
+        text-align: center;
+
+
+    }
+
+    .session9-sub2 {
+        padding-left: 0px;
+    }
+
+    .session9-tex {
+        height: 100px;
+        width: 288px;
+        display: inline;
+        border-style: solid;
+        border-radius: 50px;
+        border-color: #F7EFE1;
+
+
+
+    }
+
+    .session9-img2 {
+        margin-right: 0px;
+    }
+
+    .session9-demo {
+        margin-right: 0px;
+    }
+
+    /* session 9 */
+    /* session 10 */
+    .session10-sub {
+        font-family: Gilroy-Bold;
+        font-size: 20px;
+        line-height: 24px;
+        color: #F7EFE1;
+        padding-top: 47px;
+        padding-left: 0px;
+
+
+
+    }
+
+    .session-10 {
+        background-color: #002856;
+        padding-left: 41px;
+    }
+
+    .session10-des {
+        font-family: Gilroy-Bold;
+        font-size: 20px;
+        line-height: 24px;
+        color: #F7EFE1;
+        padding-top: 47px;
+        padding-bottom: 21px;
+
+        text-align: left;
+    }
+
+    .session10-des2 {
+        font-family: Gilroy-SemiBold;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+
+
+    }
+
+    .session10-des3 {
+        font-family: Gilroy-SemiBold;
+        font-size: 18px;
+        line-height: 21px;
+        color: #FFFFFF;
+        padding-top: 15px;
+    }
+
+    .session10-des4 {
+        font-family: Gilroy-SemiBold;
+        font-size: 28px;
+        line-height: 21px;
+        color: #FFFFFF;
+        padding-top: 15px;
+
+    }
+
+
+    .session10-img {
+        padding-top: 0px;
+
+        padding-left: 0px;
+        padding-bottom: 40px;
+    }
+
+
+    .session11-sub {
+
+        font-family: Gilroy-SemiBold;
+        font-size: 16px;
+        line-height: 22px;
+        color: #091026;
+        padding-top: 31px;
+        text-align: center;
+        padding-bottom: 0x;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+
+
+
+    /* home page */
+
+    .hero1-sub {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #091026;
+        padding-bottom: 30px;
+        margin-top: 30px;
+    }
+
+    .hero1-sub2 {
+        font-family: Gilroy-Regular;
+        font-size: 18px;
+        line-height: 26px;
+        color: #FFFFFF;
+        padding-bottom: 0px;
+        margin-bottom: 0px;
+
+    text-align: center;
+    }
+
+    .hero1-des1 {
+        font-family: Gilroy-Bold;
+        font-size: 20px;
+        line-height: 26px;
+        text-align: center;
+        color: #DF6651;
+        padding-bottom: 0px;
+        padding-top: 130px;
+        
+
+    }
+
+    .hero1-tex {
+
+        padding-top: 30px;
+        padding-left: 30px;
+        padding-right: 0px;
+        align-items: center;
+    }
+
+   
+
+    .hero1-menu {
+        background-color: #DF6651;
+        border-radius: 14px;
+        align-items: center;
+    }
+
+
+  .hero1-des {
+        background-color: #FFA495;
+        text-align: center;
+        height: 250px;
+        width: 250px;
+        border-radius: 14px;
+        padding-left: 31px;
+        padding-right: 32px;
+        margin-bottom: 30px;
+        margin-right:  20px;
+
+    }
+
+    .hero1-img {
+        padding-bottom: 0px;
+    }
+
+    /* page 1 */
+
+    /* .page1-search {
+        background-color: red;
+        border-radius: 30px;
+        width: 180px;
+    } */
+
+    .page1-sub1 {
+        font-family: Gilroy-Bold;
+        font-size: 24px;
+        line-height: 29px;
+        color: #DF6651;
+        padding-bottom: 15px;
+    }
+    
+    .page1-sub2 {
+        font-family: Gilroy-Regular;
+        font-size: 24px;
+        line-height: 34px;
+        color: #FFFFFF;
+        padding-bottom: 30px;
+    }
+    
+    
+    .page1-menu {
+        background-color: #002856;
+        margin-top: 30px;
+        padding: 58px 50px;
+        border-radius: 14px;
+    
+    
+    }
+    
+    .page1-des1 {
+        font-family: Gilroy-Bold;
+        font-size: 16px;
+        line-height: 20px;
+        color:
+            #002856;
+        padding-bottom: 8px;
+    }
+    
+    .page1-des2 {
+        font-family: Gilroy-Regular;
+        font-size: 14px;
+        line-height: 21px;
+        color: #002856;
+        padding-bottom: 17px;
+    }
+    
+    .page1-des3 {
+        font-family: Gilroy-Bold;
+        font-size: 12px;
+        line-height: 21px;
+        color: #DF6651;
+        padding-bottom: 17px;
+    }
+    
+    .page1-tex1 {
+    
+        background-color: #dfdcd4;
+        padding: 21px 21px;
+        padding-bottom: 0px;
+        margin-bottom: px;
+        border-radius: 14px;
+        background-image: url(../img/page\ 1\ bg\ 1.png);
+    
+        background-repeat: no-repeat;
+        background-position: top right;
+    
+    }
+    
+    .page1-tex2 {
+        padding-top: 143px;
+    }
+    
+    .page1-search {
+        font-family: Gilroy-Regular;
+        font-size: 16px;
+        line-height: 19px;
+        color:  #F7EFE1;
+        border-radius: 30px;
+        width: 240px;
+        margin-bottom: 10px;
+        background-color: #0A7A69;
+        align-items: center;
+        background-color: #F7EFE1;
+    }
+    
+    .page1-demo {
+    
+        padding-top: 30px;
+        padding-left: 30px;
+        margin-bottom: 0px;
+
+    
+    }
+    
+    .page1-demo3 {
+        font-family: Gilroy-Regular;
+        font-size: 16px;
+        line-height: 24px;
+        color:
+            #F7EFE1;
+        padding-bottom: 20px;
+    }
+
+
+}
